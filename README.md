@@ -15,7 +15,7 @@ This repository showcases my end-to-end data analytics projects, highlighting my
 
 ## Introduction
 
-Hello, I am **Satyamshree Moharana**, a data analyst with a strong foundation in SQL, Python, Power BI, and data visualization. This portfolio contains all my end-to-end data analytics projects where I analyze datasets, derive meaningful insights, and create dashboards. My goal is to provide actionable solutions to real-world problems.
+Hello, I am **Devarshee Gaurav Das**, a data analyst with a strong foundation in SQL, Python, Power BI, and data visualization. This portfolio contains all my end-to-end data analytics projects where I analyze datasets, derive meaningful insights, and create dashboards. My goal is to provide actionable solutions to real-world problems.
 
 ## Projects
 
@@ -59,6 +59,6 @@ Hello, I am **Satyamshree Moharana**, a data analyst with a strong foundation in
 ### **7. Contact**
 Feel free to connect with me:
 
-- **Email**: [satyamshreemoharana.76@gmail.com](Gmail)
-- **LinkedIn**: [linkedin.com/in/satyamshree-moharana](LinkedIn)
-- **GitHub**: [github.com/RijzX10](GitHub)
+- **Email**: [devarsheegaurav@gmail.com](Gmail)
+- **LinkedIn**: [(https://www.linkedin.com/in/devarshee-das-8b9660177/)](LinkedIn)
+- **GitHub**: [(https://github.com/devarshe)](GitHub)
